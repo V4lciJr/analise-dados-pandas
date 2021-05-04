@@ -17,8 +17,9 @@ Começamos então com uma pequena definição do que é Data Science.
 As linguagens mais utilizadas no momento são Python e R, com  um crescente uso também, das linguagens Julia e Scala
 </p>
 ## Introdução ao Pandas
+
 Primeiro temos que importat a biblioteca, com o comando:
-**import pandas as pd***
+**import pandas as pd**
 
 onde este as pd, é um apelido que estamos dando a biblioteca, para não termos usar sempre o nome pandas, nas invocações de seus métodos. Se você estiver utilizando o google colab ou o ananconda python, esta biblioteca já vem integrada em sua implementação, caso você esteja usando o python puro, terá que instalar a biblioteca, caso esteja usando o pip, digite o comando **pip install pandas** no terminal, que a biblioteca será instalada.
 A seguir para lermos um arquivo csv, usamos o metódo read_csv, instaciamos um dataframe, que receberá este arquivo lido.
