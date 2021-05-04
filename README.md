@@ -16,6 +16,7 @@ Começamos então com uma pequena definição do que é Data Science.
 É uma ciência que estuda as informações, seu processo de captura, transformação, geração e posteriormente, análise de dados.
 As linguagens mais utilizadas no momento são Python e R, com  um crescente uso também, das linguagens Julia e Scala
 </p>
+
 ## Introdução ao Pandas
 
 Primeiro temos que importat a biblioteca, com o comando:
